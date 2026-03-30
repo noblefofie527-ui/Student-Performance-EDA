@@ -1,10 +1,7 @@
-# Student-Performance-EDA
-An exploratory data analysis of student scores using Python and Pandas.
-
 # Student Performance - Exploratory Data Analysis (EDA)
 
 ## Project Overview
-This project performs an exploratory analysis on student data to identify patterns between study habits and exam results.
+This project performs an exploratory analysis of student scores using Python and Pandas.
 
 ## Objectives
 * Calculate summary statistics (Mean, Median, Mode, Standard Deviation).
